@@ -15,7 +15,7 @@ An immersive, interactive web-based music visualizer set in an endless cyberpunk
 
 ## Demo
 
-Check out the live demo [here](https://example.com/cyberpunk-city-visualizer-demo).
+Check out the live demo [here](https://hax0rgurl.github.io/cybercitymusic/).
 
 ## Installation
 
