@@ -65,3 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or just to say hi, reach out to us at info@abandonedmuse.com.
 
 Enjoy your journey through the neon-lit streets of the future!
+[Enjoy the app? Wanna buy me a coffee](https://www.paypal.com/paypalme/musephotos)
