@@ -65,3 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or just to say hi, reach out to us at cyberpunkvisualizer@example.com.
 
 Enjoy your journey through the neon-lit streets of the future!
+
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
