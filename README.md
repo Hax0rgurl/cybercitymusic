@@ -1,6 +1,6 @@
 # Cyberpunk City Music Visualizer
 
-![Cyberpunk City Visualizer Demo](https://example.com/demo.gif)
+!Cyberpunk City Visualizer
 
 An immersive, interactive web-based music visualizer set in an endless cyberpunk cityscape. Watch as the futuristic skyline reacts to your music, creating a unique audio-visual experience.
 
@@ -62,8 +62,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, suggestions, or just to say hi, reach out to us at cyberpunkvisualizer@example.com.
+For questions, suggestions, or just to say hi, reach out to us at info@abandonedmuse.com.
 
 Enjoy your journey through the neon-lit streets of the future!
-
-[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
